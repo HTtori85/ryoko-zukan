@@ -42,6 +42,13 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="ja"
       className={`${notoSansJP.variable} h-full antialiased`}
     >
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2385986934476349"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <CollectionProvider>
           <SiteHeader />
