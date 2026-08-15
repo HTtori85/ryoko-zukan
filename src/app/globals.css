@@ -1,26 +1,93 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #faf8f4;
+  --surface: #ffffff;
+  --foreground: #2b2620;
+  --muted: #83786c;
+  --border: #e6ddd0;
+  --accent: #1f6f5c;
+  --accent-foreground: #ffffff;
+  --visited: #2f7d5c;
+  --wishlist: #d98c2b;
+  --map-none: #e5e0d5;
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-surface: var(--surface);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-visited: var(--visited);
+  --color-wishlist: var(--wishlist);
+  --font-sans: var(--font-noto-sans-jp);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #18150f;
+    --surface: #221e17;
+    --foreground: #f1ece2;
+    --muted: #a89d8c;
+    --border: #3a342a;
+    --accent: #4fae8c;
+    --accent-foreground: #14201b;
+    --visited: #4fae8c;
+    --wishlist: #e0a54c;
+    --map-none: #3a342a;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), sans-serif;
+}
+
+h1,
+h2,
+h3,
+.font-heading {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* 日本地図 */
+.japan-map .prefecture-shape {
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+  outline: none;
+}
+
+.japan-map .prefecture-shape:hover,
+.japan-map .prefecture-shape:focus-visible {
+  opacity: 0.75;
+}
+
+.japan-map .prefecture-shape polygon,
+.japan-map .prefecture-shape path {
+  stroke: var(--background);
+  stroke-width: 1.4px;
+  stroke-linejoin: round;
+  paint-order: stroke;
+  vector-effect: non-scaling-stroke;
+  transition: fill 0.15s ease;
+}
+
+.japan-map .fill-none polygon,
+.japan-map .fill-none path {
+  fill: var(--map-none);
+}
+
+.japan-map .fill-visited polygon,
+.japan-map .fill-visited path {
+  fill: var(--visited);
+}
+
+.japan-map .fill-wishlist polygon,
+.japan-map .fill-wishlist path {
+  fill: var(--wishlist);
 }

@@ -1,0 +1,143 @@
+[
+  { "id": "hs-noboribetsu", "prefecture": "hokkaido", "name": "登別温泉", "kana": "のぼりべつおんせん", "description": "「地獄谷」から湧き出る、泉質の種類の豊富さで知られる北海道屈指の温泉地。" },
+  { "id": "hs-jozankei", "prefecture": "hokkaido", "name": "定山渓温泉", "kana": "じょうざんけいおんせん", "description": "札幌の奥座敷と呼ばれる、渓谷沿いに広がる温泉街。" },
+  { "id": "hs-toyako", "prefecture": "hokkaido", "name": "洞爺湖温泉", "kana": "とうやこおんせん", "description": "洞爺湖畔に広がる、花火大会でも知られる湖畔の温泉地。" },
+
+  { "id": "hs-owani", "prefecture": "aomori", "name": "大鰐温泉", "kana": "おおわにおんせん", "description": "700年以上の歴史を持つ、津軽地方を代表する古湯。" },
+  { "id": "hs-sukayu", "prefecture": "aomori", "name": "酸ヶ湯温泉", "kana": "すかゆおんせん", "description": "総ヒバ造りの巨大な混浴大浴場「ヒバ千人風呂」で知られる秘湯。" },
+
+  { "id": "hs-hanamaki", "prefecture": "iwate", "name": "花巻温泉郷", "kana": "はなまきおんせんきょう", "description": "台温泉や志戸平温泉など、複数の温泉地からなる岩手の温泉郷。" },
+
+  { "id": "hs-akiu", "prefecture": "miyagi", "name": "秋保温泉", "kana": "あきうおんせん", "description": "仙台の奥座敷として親しまれる、開湯1500年ともいわれる古湯。" },
+  { "id": "hs-naruko", "prefecture": "miyagi", "name": "鳴子温泉", "kana": "なるこおんせん", "description": "こけしの産地としても知られる、多彩な泉質を持つ温泉郷。" },
+
+  { "id": "hs-nyuto", "prefecture": "akita", "name": "乳頭温泉郷", "kana": "にゅうとうおんせんきょう", "description": "乳白色の湯で知られる、秘湯の趣を残す7つの宿からなる温泉郷。" },
+  { "id": "hs-tamagawa", "prefecture": "akita", "name": "玉川温泉", "kana": "たまがわおんせん", "description": "強酸性の湯と天然岩盤浴で知られる、療養で名高い温泉地。" },
+
+  { "id": "hs-zao", "prefecture": "yamagata", "name": "蔵王温泉", "kana": "ざおうおんせん", "description": "強酸性の湯と樹氷観光で知られる、開湯1900年の歴史ある温泉地。" },
+  { "id": "hs-ginzan", "prefecture": "yamagata", "name": "銀山温泉", "kana": "ぎんざんおんせん", "description": "大正ロマン漂う木造旅館が並ぶ、レトロな雰囲気で人気の温泉街。" },
+
+  { "id": "hs-higashiyama", "prefecture": "fukushima", "name": "東山温泉", "kana": "ひがしやまおんせん", "description": "会津若松の奥座敷と呼ばれる、渓谷沿いの温泉地。" },
+  { "id": "hs-iizaka", "prefecture": "fukushima", "name": "飯坂温泉", "kana": "いいざかおんせん", "description": "奥州三名湯の一つに数えられる、福島市近郊の歴史ある温泉地。" },
+
+  { "id": "hs-tsuchiura", "prefecture": "ibaraki", "name": "五浦温泉", "kana": "いづらおんせん", "description": "太平洋の絶景を望む、県北の海辺の温泉地。" },
+
+  { "id": "hs-kinugawa", "prefecture": "tochigi", "name": "鬼怒川温泉", "kana": "きぬがわおんせん", "description": "渓谷沿いに大型旅館が立ち並ぶ、関東有数の温泉観光地。" },
+  { "id": "hs-nasu", "prefecture": "tochigi", "name": "那須温泉郷", "kana": "なすおんせんきょう", "description": "皇室の御用邸もある高原リゾート。複数の源泉からなる温泉郷。" },
+
+  { "id": "hs-kusatsu", "prefecture": "gunma", "name": "草津温泉", "kana": "くさつおんせん", "description": "自然湧出量日本一を誇る、湯畑を中心とした日本を代表する名湯。" },
+  { "id": "hs-ikaho", "prefecture": "gunma", "name": "伊香保温泉", "kana": "いかほおんせん", "description": "365段の石段街が象徴的な、赤褐色の湯で知られる温泉地。" },
+  { "id": "hs-minakami", "prefecture": "gunma", "name": "みなかみ温泉郷", "kana": "みなかみおんせんきょう", "description": "谷川岳の麓に広がる、渓谷美とアウトドアも楽しめる温泉郷。" },
+
+  { "id": "hs-hakone", "prefecture": "kanagawa", "name": "箱根温泉郷", "kana": "はこねおんせんきょう", "description": "富士山を望む、都心から近い日本屈指の温泉リゾート。" },
+  { "id": "hs-yumoto-kanagawa", "prefecture": "kanagawa", "name": "湯河原温泉", "kana": "ゆがわらおんせん", "description": "万葉集にも詠まれた、静かな山あいの湯治場として知られる。" },
+
+  { "id": "hs-echigo-yuzawa", "prefecture": "niigata", "name": "越後湯沢温泉", "kana": "えちごゆざわおんせん", "description": "川端康成の小説「雪国」の舞台としても知られるスキーリゾート。" },
+
+  { "id": "hs-unazuki", "prefecture": "toyama", "name": "宇奈月温泉", "kana": "うなづきおんせん", "description": "黒部峡谷の入口に位置する、渓谷美を楽しめる温泉地。" },
+
+  { "id": "hs-yamashiro", "prefecture": "ishikawa", "name": "山代温泉", "kana": "やましろおんせん", "description": "開湯1300年以上といわれる、加賀温泉郷を代表する古湯。" },
+  { "id": "hs-yamanaka", "prefecture": "ishikawa", "name": "山中温泉", "kana": "やまなかおんせん", "description": "松尾芭蕉も愛したと伝わる、鶴仙渓の渓谷美が魅力の温泉地。" },
+  { "id": "hs-wakura", "prefecture": "ishikawa", "name": "和倉温泉", "kana": "わくらおんせん", "description": "能登半島にある、海に面した北陸有数の温泉地。" },
+
+  { "id": "hs-awara", "prefecture": "fukui", "name": "芦原温泉", "kana": "あわらおんせん", "description": "「関西の奥座敷」とも呼ばれる、福井を代表する温泉地。" },
+
+  { "id": "hs-isawa", "prefecture": "yamanashi", "name": "石和温泉", "kana": "いさわおんせん", "description": "ぶどう畑の中に湧いた比較的新しい、山梨県内最大の温泉地。" },
+  { "id": "hs-kawaguchiko", "prefecture": "yamanashi", "name": "河口湖温泉", "kana": "かわぐちこおんせん", "description": "富士山と湖の景観を一望できる、富士五湖エリアの温泉地。" },
+
+  { "id": "hs-shibu", "prefecture": "nagano", "name": "渋温泉", "kana": "しぶおんせん", "description": "9つの外湯めぐりで知られる、地獄谷野猿公苑にも近い温泉街。" },
+  { "id": "hs-bessho", "prefecture": "nagano", "name": "別所温泉", "kana": "べっしょおんせん", "description": "「信州の鎌倉」と呼ばれる古い寺社が点在する温泉地。" },
+
+  { "id": "hs-gero", "prefecture": "gifu", "name": "下呂温泉", "kana": "げろおんせん", "description": "日本三名泉の一つ。なめらかな肌触りの湯で知られる。" },
+  { "id": "hs-okuhida", "prefecture": "gifu", "name": "奥飛騨温泉郷", "kana": "おくひだおんせんきょう", "description": "北アルプスの麓に広がる、露天風呂の数の多さで知られる温泉郷。" },
+
+  { "id": "hs-atami", "prefecture": "shizuoka", "name": "熱海温泉", "kana": "あたみおんせん", "description": "首都圏から近い海辺のリゾート。古くから湯治場として栄えた。" },
+  { "id": "hs-ito", "prefecture": "shizuoka", "name": "伊東温泉", "kana": "いとうおんせん", "description": "伊豆半島東海岸に位置する、豊富な湧出量を誇る温泉地。" },
+  { "id": "hs-shuzenji", "prefecture": "shizuoka", "name": "修善寺温泉", "kana": "しゅぜんじおんせん", "description": "伊豆最古の温泉と伝わる、独鈷の湯で知られる歴史ある温泉地。" },
+
+  { "id": "hs-yunoyama", "prefecture": "mie", "name": "湯の山温泉", "kana": "ゆのやまおんせん", "description": "御在所岳の麓に湧く、鈴鹿山脈の自然に囲まれた温泉地。" },
+
+  { "id": "hs-kinosaki", "prefecture": "hyogo", "name": "城崎温泉", "kana": "きのさきおんせん", "description": "柳並木と7つの外湯めぐりが人気の、情緒豊かな温泉街。" },
+  { "id": "hs-arima", "prefecture": "hyogo", "name": "有馬温泉", "kana": "ありまおんせん", "description": "日本三古湯の一つ。「金の湯」「銀の湯」の二つの異なる泉質を持つ。" },
+
+  { "id": "hs-shirahama", "prefecture": "wakayama", "name": "白浜温泉", "kana": "しらはまおんせん", "description": "日本三古湯の一つ。白砂の海岸に面した関西屈指の温泉リゾート。" },
+  { "id": "hs-katsuura", "prefecture": "wakayama", "name": "勝浦温泉", "kana": "かつうらおんせん", "description": "洞窟風呂「忘帰洞」で知られる、太平洋を望む温泉地。" },
+
+  { "id": "hs-misasa", "prefecture": "tottori", "name": "三朝温泉", "kana": "みささおんせん", "description": "世界屈指のラドン含有量を誇る、療養温泉として知られる名湯。" },
+  { "id": "hs-kaike", "prefecture": "tottori", "name": "皆生温泉", "kana": "かいけおんせん", "description": "日本海に面した山陰有数の温泉地。トライアスロン発祥の地でもある。" },
+
+  { "id": "hs-tamatsukuri", "prefecture": "shimane", "name": "玉造温泉", "kana": "たまつくりおんせん", "description": "美肌の湯として知られる、出雲国風土記にも記された古湯。" },
+
+  { "id": "hs-yubara", "prefecture": "okayama", "name": "湯原温泉", "kana": "ゆばらおんせん", "description": "露天風呂番付で西の横綱に選ばれたこともある、川底に湧く温泉。" },
+
+  { "id": "hs-yunogo", "prefecture": "hiroshima", "name": "湯の郷温泉", "kana": "ゆのごうおんせん", "description": "瀬戸内海を望む静かな山あいの温泉地。" },
+
+  { "id": "hs-nagato-yumoto", "prefecture": "yamaguchi", "name": "長門湯本温泉", "kana": "ながとゆもとおんせん", "description": "山口県最古とされる、大寧寺そばに湧く風情ある温泉地。" },
+
+  { "id": "hs-kagawa-koto", "prefecture": "kagawa", "name": "小豆島温泉郷", "kana": "しょうどしまおんせんきょう", "description": "瀬戸内海の景観を望む、小豆島に点在する温泉地。" },
+
+  { "id": "hs-dogo", "prefecture": "ehime", "name": "道後温泉", "kana": "どうごおんせん", "description": "日本最古級と伝わる名湯。夏目漱石の小説「坊っちゃん」の舞台。" },
+
+  { "id": "hs-kochi-yunotani", "prefecture": "kochi", "name": "べふ峡温泉", "kana": "べふきょうおんせん", "description": "四国山地の渓谷に湧く、自然豊かな秘湯。" },
+
+  { "id": "hs-hakata-shrines", "prefecture": "fukuoka", "name": "原鶴温泉", "kana": "はらづるおんせん", "description": "筑後川沿いに広がる、屋形船でも知られる温泉地。" },
+  { "id": "hs-tsuyazaki", "prefecture": "fukuoka", "name": "二日市温泉", "kana": "ふつかいちおんせん", "description": "1300年以上の歴史を持つ、筑紫野市の古湯。" },
+
+  { "id": "hs-ureshino", "prefecture": "saga", "name": "嬉野温泉", "kana": "うれしのおんせん", "description": "「日本三大美肌の湯」の一つに数えられる、とろみのある湯が特徴。" },
+  { "id": "hs-takeo", "prefecture": "saga", "name": "武雄温泉", "kana": "たけおおんせん", "description": "朱塗りの楼門が象徴的な、1300年以上の歴史を持つ温泉地。" },
+
+  { "id": "hs-unzen", "prefecture": "nagasaki", "name": "雲仙温泉", "kana": "うんぜんおんせん", "description": "噴煙立ち上る雲仙地獄で知られる、高原に広がる温泉地。" },
+
+  { "id": "hs-kurokawa", "prefecture": "kumamoto", "name": "黒川温泉", "kana": "くろかわおんせん", "description": "統一感ある街並みと露天風呂めぐりで人気の、山あいの温泉郷。" },
+  { "id": "hs-yamaga", "prefecture": "kumamoto", "name": "山鹿温泉", "kana": "やまがおんせん", "description": "レトロな街並みが残る、灯籠まつりでも知られる温泉地。" },
+
+  { "id": "hs-beppu", "prefecture": "oita", "name": "別府温泉", "kana": "べっぷおんせん", "description": "源泉数・湧出量ともに日本一を誇る、8つの温泉地からなる温泉郷。" },
+  { "id": "hs-yufuin", "prefecture": "oita", "name": "由布院温泉", "kana": "ゆふいんおんせん", "description": "由布岳の麓に広がる、洗練された街並みで人気の温泉地。" },
+
+  { "id": "hs-ebino", "prefecture": "miyazaki", "name": "えびの高原温泉", "kana": "えびのこうげんおんせん", "description": "霧島連山の麓に広がる、高原の景観と共に楽しめる温泉地。" },
+
+  { "id": "hs-ibusuki", "prefecture": "kagoshima", "name": "指宿温泉", "kana": "いぶすきおんせん", "description": "砂むし温泉で全国的に知られる、海辺の温泉地。" },
+  { "id": "hs-kirishima", "prefecture": "kagoshima", "name": "霧島温泉郷", "kana": "きりしまおんせんきょう", "description": "霧島連山の中腹に広がる、多彩な泉質を持つ温泉郷。" },
+  { "id": "hs-myoken", "prefecture": "kagoshima", "name": "妙見温泉", "kana": "みょうけんおんせん", "description": "天降川沿いに広がる、静かな渓谷美が魅力の温泉地。" },
+
+  { "id": "hs-kawayu", "prefecture": "hokkaido", "name": "川湯温泉", "kana": "かわゆおんせん", "description": "硫黄山の麓に広がる、酸性の強い湯で知られる道東の温泉地。" },
+  { "id": "hs-yunokawa", "prefecture": "hokkaido", "name": "湯の川温泉", "kana": "ゆのかわおんせん", "description": "函館空港・市街地に近い、道南を代表する温泉地。" },
+
+  { "id": "hs-natsuyu", "prefecture": "iwate", "name": "夏油温泉", "kana": "げとうおんせん", "description": "渓流沿いに湧く露天風呂群で知られる、山あいの秘湯。" },
+
+  { "id": "hs-bandai-atami", "prefecture": "fukushima", "name": "磐梯熱海温泉", "kana": "ばんだいあたみおんせん", "description": "郡山近郊にある、こけしの絵付け体験でも知られる温泉地。" },
+
+  { "id": "hs-daigo", "prefecture": "ibaraki", "name": "大子温泉", "kana": "だいごおんせん", "description": "袋田の滝にほど近い、奥久慈渓谷沿いの静かな温泉地。" },
+
+  { "id": "hs-otaki", "prefecture": "saitama", "name": "大滝温泉", "kana": "おおたきおんせん", "description": "秩父の山あいに湧く、渓谷美とともに楽しめる温泉地。" },
+
+  { "id": "hs-kamogawa", "prefecture": "chiba", "name": "鴨川温泉", "kana": "かもがわおんせん", "description": "太平洋を望む、房総半島南部の海辺の温泉地。" },
+
+  { "id": "hs-okutama", "prefecture": "tokyo", "name": "奥多摩温泉", "kana": "おくたまおんせん", "description": "多摩川源流域に湧く、東京都内で気軽に楽しめる温泉。" },
+
+  { "id": "hs-shima", "prefecture": "gunma", "name": "四万温泉", "kana": "しまおんせん", "description": "「四万の病を癒す」と伝わる、静かな渓谷沿いの湯治場。" },
+
+  { "id": "hs-senami", "prefecture": "niigata", "name": "瀬波温泉", "kana": "せなみおんせん", "description": "日本海に面した、夕日の絶景で知られる温泉地。" },
+
+  { "id": "hs-nishiura", "prefecture": "aichi", "name": "西浦温泉", "kana": "にしうらおんせん", "description": "三河湾を望む、海の景観が楽しめる温泉リゾート。" },
+
+  { "id": "hs-ogoto", "prefecture": "shiga", "name": "雄琴温泉", "kana": "おごとおんせん", "description": "琵琶湖畔に広がる、比叡山にも近い温泉地。" },
+
+  { "id": "hs-yunohana", "prefecture": "kyoto", "name": "湯の花温泉", "kana": "ゆのはなおんせん", "description": "京都市街から近い、山里の風情を残す静かな温泉地。" },
+
+  { "id": "hs-inunaki", "prefecture": "osaka", "name": "犬鳴山温泉", "kana": "いぬなきやまおんせん", "description": "修験道の霊場としても知られる、大阪府内唯一の温泉郷。" },
+
+  { "id": "hs-yumura", "prefecture": "hyogo", "name": "湯村温泉", "kana": "ゆむらおんせん", "description": "荒湯と呼ばれる高温の源泉が湧き出る、但馬地方の温泉地。" },
+
+  { "id": "hs-totsukawa", "prefecture": "nara", "name": "十津川温泉", "kana": "とつかわおんせん", "description": "熊野古道沿いに湧く、日本有数の源泉数を誇る山間の温泉郷。" },
+
+  { "id": "hs-yunogo-okayama", "prefecture": "okayama", "name": "湯郷温泉", "kana": "ゆのごうおんせん", "description": "美作三湯の一つに数えられる、鷺の伝説が残る古湯。" },
+
+  { "id": "hs-iya", "prefecture": "tokushima", "name": "祖谷温泉", "kana": "いやおんせん", "description": "祖谷渓の断崖に湧く、ケーブルカーで下る露天風呂で知られる秘湯。" },
+
+  { "id": "hs-aso-uchinomaki", "prefecture": "kumamoto", "name": "阿蘇内牧温泉", "kana": "あそうちのまきおんせん", "description": "阿蘇の山懐に広がる、外輪山の眺めが美しい温泉地。" },
+
+  { "id": "hs-nagayu", "prefecture": "oita", "name": "長湯温泉", "kana": "ながゆおんせん", "description": "炭酸泉の含有量が日本有数の、療養で知られる温泉地。" },
+
+  { "id": "hs-ryukyu", "prefecture": "okinawa", "name": "琉球温泉", "kana": "りゅうきゅうおんせん", "description": "沖縄本島に湧く、南国の風土を感じられる希少な温泉。" }
+]

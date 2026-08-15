@@ -1,0 +1,159 @@
+[
+  { "id": "hokkaido-f01", "prefecture": "hokkaido", "name": "ジンギスカン", "kana": "ジンギスカン", "area": "全域", "category": "肉料理", "description": "専用の鍋で羊肉と野菜を焼く、北海道を代表する郷土料理。" },
+  { "id": "hokkaido-f02", "prefecture": "hokkaido", "name": "石狩鍋", "kana": "いしかりなべ", "area": "石狩地方", "category": "鍋", "description": "鮭と野菜を味噌仕立てで煮込む、北海道の代表的な鍋料理。" },
+  { "id": "hokkaido-f03", "prefecture": "hokkaido", "name": "海鮮丼", "kana": "かいせんどん", "area": "全域", "category": "魚介", "description": "ウニ・イクラ・カニなど北海道近海の海の幸をふんだんに使った丼。" },
+  { "id": "hokkaido-f04", "prefecture": "hokkaido", "name": "札幌ラーメン", "kana": "さっぽろラーメン", "area": "札幌市", "category": "麺", "description": "味噌ベースのスープが特徴のご当地ラーメン。" },
+
+  { "id": "aomori-f01", "prefecture": "aomori", "name": "せんべい汁", "kana": "せんべいじる", "area": "南部地方", "category": "鍋", "description": "南部せんべいを出汁で煮込んだ、江戸時代から伝わる郷土料理。" },
+  { "id": "aomori-f02", "prefecture": "aomori", "name": "けの汁", "kana": "けのしる", "area": "津軽地方", "category": "郷土料理", "description": "根菜や山菜を細かく刻んで煮込んだ、小正月に食べる伝統料理。" },
+  { "id": "aomori-f03", "prefecture": "aomori", "name": "青森りんご", "kana": "あおもりりんご", "area": "全域", "category": "菓子", "description": "生産量日本一を誇るりんご。菓子や飲料にも幅広く使われる。" },
+
+  { "id": "iwate-f01", "prefecture": "iwate", "name": "わんこそば", "kana": "わんこそば", "area": "盛岡市", "category": "麺", "description": "小さな椀に何杯も蕎麦をおかわりする、盛岡の名物食文化。" },
+  { "id": "iwate-f02", "prefecture": "iwate", "name": "盛岡冷麺", "kana": "もりおかれいめん", "area": "盛岡市", "category": "麺", "description": "コシの強い麺と辛味のあるスープが特徴の冷たい麺料理。" },
+  { "id": "iwate-f03", "prefecture": "iwate", "name": "ひっつみ", "kana": "ひっつみ", "area": "全域", "category": "郷土料理", "description": "小麦粉の生地をちぎって野菜と煮込む、素朴な家庭料理。" },
+
+  { "id": "miyagi-f01", "prefecture": "miyagi", "name": "牛タン", "kana": "ぎゅうタン", "area": "仙台市", "category": "肉料理", "description": "炭火焼きで提供される仙台名物。麦飯とテールスープが定番の組み合わせ。" },
+  { "id": "miyagi-f02", "prefecture": "miyagi", "name": "ずんだ餅", "kana": "ずんだもち", "area": "全域", "category": "菓子", "description": "枝豆をすり潰した餡を絡めた餅菓子。鮮やかな緑色が特徴。" },
+  { "id": "miyagi-f03", "prefecture": "miyagi", "name": "笹かまぼこ", "kana": "ささかまぼこ", "area": "全域", "category": "魚介", "description": "笹の葉の形をした焼きかまぼこ。仙台土産の定番。" },
+
+  { "id": "akita-f01", "prefecture": "akita", "name": "きりたんぽ鍋", "kana": "きりたんぽなべ", "area": "県北部", "category": "鍋", "description": "つぶした米を棒状にして焼いた「きりたんぽ」を鶏出汁で煮込む鍋。" },
+  { "id": "akita-f02", "prefecture": "akita", "name": "秋田比内地鶏", "kana": "あきたひないじどり", "area": "全域", "category": "肉料理", "description": "日本三大地鶏の一つ。濃厚な旨みが特徴の地鶏肉。" },
+  { "id": "akita-f03", "prefecture": "akita", "name": "いぶりがっこ", "kana": "いぶりがっこ", "area": "全域", "category": "発酵食品", "description": "大根を燻製にしてから漬け込んだ、秋田独特の漬物。" },
+
+  { "id": "yamagata-f01", "prefecture": "yamagata", "name": "芋煮", "kana": "いもに", "area": "全域", "category": "鍋", "description": "里芋と牛肉(内陸)または豚肉(庄内)を煮込む、秋の風物詩料理。" },
+  { "id": "yamagata-f02", "prefecture": "yamagata", "name": "米沢牛", "kana": "よねざわぎゅう", "area": "米沢市", "category": "肉料理", "description": "日本三大和牛にも数えられる、きめ細かな霜降りが特徴のブランド牛。" },
+  { "id": "yamagata-f03", "prefecture": "yamagata", "name": "だし", "kana": "だし", "area": "全域", "category": "郷土料理", "description": "夏野菜を細かく刻み、醤油などで和えた冷たい薬味料理。" },
+
+  { "id": "fukushima-f01", "prefecture": "fukushima", "name": "喜多方ラーメン", "kana": "きたかたラーメン", "area": "喜多方市", "category": "麺", "description": "太い縮れ麺と醤油ベースのスープが特徴の三大ラーメンの一つ。" },
+  { "id": "fukushima-f02", "prefecture": "fukushima", "name": "こづゆ", "kana": "こづゆ", "area": "会津地方", "category": "郷土料理", "description": "貝柱の出汁で野菜や豆麩を煮た、会津の祝い膳料理。" },
+  { "id": "fukushima-f03", "prefecture": "fukushima", "name": "円盤餃子", "kana": "えんばんぎょうざ", "area": "福島市", "category": "郷土料理", "description": "皿の上に円形に並べて焼く、福島市のご当地餃子。" },
+
+  { "id": "ibaraki-f01", "prefecture": "ibaraki", "name": "納豆", "kana": "なっとう", "area": "水戸市", "category": "発酵食品", "description": "全国的な生産量・消費量を誇る水戸の名産品。" },
+  { "id": "ibaraki-f02", "prefecture": "ibaraki", "name": "あんこう鍋", "kana": "あんこうなべ", "area": "県北沿岸部", "category": "鍋", "description": "あんこうの身と肝を出汁に使った、冬の味覚を代表する鍋料理。" },
+
+  { "id": "tochigi-f01", "prefecture": "tochigi", "name": "宇都宮餃子", "kana": "うつのみやぎょうざ", "area": "宇都宮市", "category": "郷土料理", "description": "野菜多めであっさりとした味わいが特徴のご当地餃子。" },
+  { "id": "tochigi-f02", "prefecture": "tochigi", "name": "しもつかれ", "kana": "しもつかれ", "area": "全域", "category": "郷土料理", "description": "鮭の頭や大豆、根菜を煮込んだ、初午の日に食べる郷土料理。" },
+
+  { "id": "gunma-f01", "prefecture": "gunma", "name": "上州もつ煮", "kana": "じょうしゅうもつに", "area": "全域", "category": "鍋", "description": "豚もつと野菜を味噌や醤油で煮込んだ、群馬の定番惣菜料理。" },
+  { "id": "gunma-f02", "prefecture": "gunma", "name": "水沢うどん", "kana": "みずさわうどん", "area": "渋川市", "category": "麺", "description": "日本三大うどんの一つ。コシの強さとつるりとした喉ごしが特徴。" },
+
+  { "id": "saitama-f01", "prefecture": "saitama", "name": "草加せんべい", "kana": "そうかせんべい", "area": "草加市", "category": "菓子", "description": "醤油の香ばしさが特徴の、江戸時代から伝わる煎餅。" },
+  { "id": "saitama-f02", "prefecture": "saitama", "name": "深谷ねぎ", "kana": "ふかやねぎ", "area": "深谷市", "category": "郷土料理", "description": "甘みと柔らかさで知られるブランドねぎ。鍋料理などに使われる。" },
+
+  { "id": "chiba-f01", "prefecture": "chiba", "name": "落花生", "kana": "らっかせい", "area": "八街市など", "category": "郷土料理", "description": "生産量日本一を誇る千葉名産の落花生。" },
+  { "id": "chiba-f02", "prefecture": "chiba", "name": "なめろう", "kana": "なめろう", "area": "房総半島", "category": "魚介", "description": "アジなどの青魚を味噌や薬味と叩いた、漁師町生まれの料理。" },
+
+  { "id": "tokyo-f01", "prefecture": "tokyo", "name": "深川めし", "kana": "ふかがわめし", "area": "江東区", "category": "ご飯", "description": "アサリを使った炊き込みご飯またはぶっかけご飯。江戸の漁師町の味。" },
+  { "id": "tokyo-f02", "prefecture": "tokyo", "name": "もんじゃ焼き", "kana": "もんじゃやき", "area": "月島", "category": "郷土料理", "description": "薄い生地を鉄板の上で焼きながら食べる、下町生まれの粉もの料理。" },
+  { "id": "tokyo-f03", "prefecture": "tokyo", "name": "江戸前寿司", "kana": "えどまえずし", "area": "全域", "category": "魚介", "description": "東京湾で獲れる魚介を使った、江戸時代に発達した寿司文化。" },
+
+  { "id": "kanagawa-f01", "prefecture": "kanagawa", "name": "サンマー麺", "kana": "サンマーめん", "area": "横浜市", "category": "麺", "description": "とろみのある野菜あんをかけた、横浜発祥のご当地ラーメン。" },
+  { "id": "kanagawa-f02", "prefecture": "kanagawa", "name": "しらす丼", "kana": "しらすどん", "area": "湘南地方", "category": "魚介", "description": "生または釜揚げのしらすをご飯にのせた、湘南の名物丼。" },
+
+  { "id": "niigata-f01", "prefecture": "niigata", "name": "へぎそば", "kana": "へぎそば", "area": "魚沼地方", "category": "麺", "description": "海藻をつなぎに使った独特のコシを持つ、片木(へぎ)に盛る蕎麦。" },
+  { "id": "niigata-f02", "prefecture": "niigata", "name": "笹寿司", "kana": "ささずし", "area": "上越地方", "category": "ご飯", "description": "笹の葉に酢飯と具材をのせた、山間部で親しまれる押し寿司。" },
+  { "id": "niigata-f03", "prefecture": "niigata", "name": "日本酒", "kana": "にほんしゅ", "area": "全域", "category": "飲み物", "description": "米どころ新潟を代表する特産品。数多くの酒蔵が銘酒を生み出す。" },
+
+  { "id": "toyama-f01", "prefecture": "toyama", "name": "ますの寿司", "kana": "ますのすし", "area": "富山市", "category": "ご飯", "description": "サクラマスを使った円形の押し寿司。富山を代表する駅弁でもある。" },
+  { "id": "toyama-f02", "prefecture": "toyama", "name": "ホタルイカ", "kana": "ホタルイカ", "area": "富山湾", "category": "魚介", "description": "春を告げる富山湾の味覚。沖漬けなどで親しまれる。" },
+
+  { "id": "ishikawa-f01", "prefecture": "ishikawa", "name": "治部煮", "kana": "じぶに", "area": "金沢市", "category": "郷土料理", "description": "鴨肉や麩をとろみのある出汁で煮込んだ、加賀料理を代表する一品。" },
+  { "id": "ishikawa-f02", "prefecture": "ishikawa", "name": "金沢おでん", "kana": "かなざわおでん", "area": "金沢市", "category": "郷土料理", "description": "車麩やバイ貝など独自の具材を使う、金沢ならではのおでん。" },
+
+  { "id": "fukui-f01", "prefecture": "fukui", "name": "越前ガニ", "kana": "えちぜんガニ", "area": "全域", "category": "魚介", "description": "福井を代表するブランドガニ。冬の味覚として全国的に人気が高い。" },
+  { "id": "fukui-f02", "prefecture": "fukui", "name": "ソースカツ丼", "kana": "ソースカツどん", "area": "福井市", "category": "肉料理", "description": "薄いカツをソースにくぐらせてご飯にのせた、福井のご当地丼。" },
+
+  { "id": "yamanashi-f01", "prefecture": "yamanashi", "name": "ほうとう", "kana": "ほうとう", "area": "全域", "category": "麺", "description": "幅広の麺とかぼちゃなどの野菜を味噌で煮込む、山梨の郷土料理。" },
+  { "id": "yamanashi-f02", "prefecture": "yamanashi", "name": "甲州ぶどう・ワイン", "kana": "こうしゅうぶどう・ワイン", "area": "甲府盆地", "category": "飲み物", "description": "国内有数のぶどう産地として知られ、ワイン造りも盛ん。" },
+
+  { "id": "nagano-f01", "prefecture": "nagano", "name": "信州そば", "kana": "しんしゅうそば", "area": "全域", "category": "麺", "description": "冷涼な気候で育つそば粉を使った、長野を代表する麺料理。" },
+  { "id": "nagano-f02", "prefecture": "nagano", "name": "馬肉(桜肉)", "kana": "ばにく(さくらにく)", "area": "全域", "category": "肉料理", "description": "馬刺しなどで親しまれる、信州の伝統的なタンパク源。" },
+
+  { "id": "gifu-f01", "prefecture": "gifu", "name": "飛騨牛", "kana": "ひだぎゅう", "area": "飛騨地方", "category": "肉料理", "description": "きめ細やかな霜降りが特徴の、全国的に評価の高いブランド牛。" },
+  { "id": "gifu-f02", "prefecture": "gifu", "name": "朴葉味噌", "kana": "ほおばみそ", "area": "飛騨地方", "category": "郷土料理", "description": "朴の葉の上で味噌を焼きながら食べる、飛騨地方の郷土料理。" },
+
+  { "id": "shizuoka-f01", "prefecture": "shizuoka", "name": "静岡茶", "kana": "しずおかちゃ", "area": "全域", "category": "飲み物", "description": "生産量日本一を誇る緑茶の産地。豊かな香りとコクが特徴。" },
+  { "id": "shizuoka-f02", "prefecture": "shizuoka", "name": "うなぎ", "kana": "うなぎ", "area": "浜松市", "category": "魚介", "description": "浜名湖周辺で盛んなうなぎ養殖。蒲焼きは静岡を代表する名物。" },
+
+  { "id": "aichi-f01", "prefecture": "aichi", "name": "味噌カツ", "kana": "みそカツ", "area": "名古屋市", "category": "肉料理", "description": "豆味噌ベースの甘辛いタレをかけたカツ。名古屋めしの代表格。" },
+  { "id": "aichi-f02", "prefecture": "aichi", "name": "ひつまぶし", "kana": "ひつまぶし", "area": "名古屋市", "category": "魚介", "description": "うなぎの蒲焼きを細かく刻み、数通りの食べ方を楽しむ名古屋名物。" },
+  { "id": "aichi-f03", "prefecture": "aichi", "name": "手羽先", "kana": "てばさき", "area": "名古屋市", "category": "肉料理", "description": "甘辛いタレと香辛料で味付けした、名古屋発祥の唐揚げ料理。" },
+
+  { "id": "mie-f01", "prefecture": "mie", "name": "伊勢うどん", "kana": "いせうどん", "area": "伊勢市", "category": "麺", "description": "極太麺にたまり醤油ベースの濃いタレを絡めた独特のうどん。" },
+  { "id": "mie-f02", "prefecture": "mie", "name": "松阪牛", "kana": "まつさかうし", "area": "松阪市", "category": "肉料理", "description": "日本三大和牛の一つ。とろけるような肉質と香りが特徴。" },
+
+  { "id": "shiga-f01", "prefecture": "shiga", "name": "鮒寿司", "kana": "ふなずし", "area": "琵琶湖周辺", "category": "発酵食品", "description": "琵琶湖のニゴロブナを塩と米で発酵させた、日本古来の熟れ寿司。" },
+  { "id": "shiga-f02", "prefecture": "shiga", "name": "近江牛", "kana": "おうみうし", "area": "全域", "category": "肉料理", "description": "日本三大和牛に数えられることもある、歴史あるブランド牛。" },
+
+  { "id": "kyoto-f01", "prefecture": "kyoto", "name": "京漬物", "kana": "きょうつけもの", "area": "全域", "category": "発酵食品", "description": "千枚漬けやすぐき漬けなど、京野菜を使った伝統的な漬物文化。" },
+  { "id": "kyoto-f02", "prefecture": "kyoto", "name": "湯豆腐", "kana": "ゆどうふ", "area": "京都市", "category": "郷土料理", "description": "良質な水と豆腐で作られる、寺院文化とともに発展した精進料理。" },
+  { "id": "kyoto-f03", "prefecture": "kyoto", "name": "京料理", "kana": "きょうりょうり", "area": "京都市", "category": "郷土料理", "description": "季節感と繊細な出汁の味わいを大切にする、京都独自の料理文化。" },
+
+  { "id": "osaka-f01", "prefecture": "osaka", "name": "たこ焼き", "kana": "たこやき", "area": "大阪市", "category": "郷土料理", "description": "タコ入りの生地を丸く焼いた、大阪を代表する粉もん。" },
+  { "id": "osaka-f02", "prefecture": "osaka", "name": "お好み焼き", "kana": "おこのみやき", "area": "大阪市", "category": "郷土料理", "description": "刻んだキャベツと生地を混ぜて焼く、大阪流のお好み焼き。" },
+
+  { "id": "hyogo-f01", "prefecture": "hyogo", "name": "神戸牛", "kana": "こうべぎゅう", "area": "神戸市周辺", "category": "肉料理", "description": "世界的にも名高いブランド牛。豊かな霜降りと柔らかな肉質が特徴。" },
+  { "id": "hyogo-f02", "prefecture": "hyogo", "name": "明石焼き", "kana": "あかしやき", "area": "明石市", "category": "郷土料理", "description": "卵多めの生地でタコを包み、出汁につけて食べるたこ焼きの原型。" },
+
+  { "id": "nara-f01", "prefecture": "nara", "name": "柿の葉寿司", "kana": "かきのはずし", "area": "吉野地方", "category": "ご飯", "description": "柿の葉で包んだ鯖などの押し寿司。保存食として発展した郷土料理。" },
+  { "id": "nara-f02", "prefecture": "nara", "name": "三輪そうめん", "kana": "みわそうめん", "area": "桜井市", "category": "麺", "description": "1200年以上の歴史を持つ、日本のそうめんの発祥とされる名産品。" },
+
+  { "id": "wakayama-f01", "prefecture": "wakayama", "name": "和歌山ラーメン", "kana": "わかやまラーメン", "area": "和歌山市", "category": "麺", "description": "豚骨醤油の濃厚なスープが特徴のご当地ラーメン。" },
+  { "id": "wakayama-f02", "prefecture": "wakayama", "name": "梅干し", "kana": "うめぼし", "area": "みなべ町など", "category": "郷土料理", "description": "紀州南高梅を使った、全国的に知られる梅干しの一大産地。" },
+
+  { "id": "tottori-f01", "prefecture": "tottori", "name": "松葉ガニ", "kana": "まつばガニ", "area": "全域", "category": "魚介", "description": "山陰地方を代表する冬の味覚。ブランドガニとして高い評価を持つ。" },
+  { "id": "tottori-f02", "prefecture": "tottori", "name": "鳥取砂丘らっきょう", "kana": "とっとりさきゅうらっきょう", "area": "鳥取市", "category": "郷土料理", "description": "砂丘の水はけの良い土壌で育つ、シャキシャキとした食感のらっきょう。" },
+
+  { "id": "shimane-f01", "prefecture": "shimane", "name": "出雲そば", "kana": "いずもそば", "area": "出雲市", "category": "麺", "description": "丸い割子に盛り付けて食べる、独特のスタイルを持つそば料理。" },
+  { "id": "shimane-f02", "prefecture": "shimane", "name": "しじみ汁", "kana": "しじみじる", "area": "宍道湖周辺", "category": "魚介", "description": "宍道湖名産のヤマトシジミを使った滋味深い味噌汁。" },
+
+  { "id": "okayama-f01", "prefecture": "okayama", "name": "ままかり", "kana": "ままかり", "area": "全域", "category": "魚介", "description": "酢漬けにして食べる小魚料理。あまりの美味しさに隣家から米を借りるほどという由来を持つ。" },
+  { "id": "okayama-f02", "prefecture": "okayama", "name": "白桃・マスカット", "kana": "はくとう・マスカット", "area": "全域", "category": "郷土料理", "description": "「フルーツ王国」と呼ばれる岡山を代表する高級果物。" },
+
+  { "id": "hiroshima-f01", "prefecture": "hiroshima", "name": "広島風お好み焼き", "kana": "ひろしまふうおこのみやき", "area": "広島市", "category": "郷土料理", "description": "そばを挟んで重ねて焼く、広島独自のスタイルのお好み焼き。" },
+  { "id": "hiroshima-f02", "prefecture": "hiroshima", "name": "牡蠣", "kana": "かき", "area": "瀬戸内海沿岸", "category": "魚介", "description": "生産量日本一を誇る広島の牡蠣。土手鍋などでも親しまれる。" },
+
+  { "id": "yamaguchi-f01", "prefecture": "yamaguchi", "name": "ふぐ料理", "kana": "ふぐりょうり", "area": "下関市", "category": "魚介", "description": "「ふく」と呼ばれ縁起物とされる下関のふぐを使った刺身や鍋料理。" },
+  { "id": "yamaguchi-f02", "prefecture": "yamaguchi", "name": "瓦そば", "kana": "かわらそば", "area": "川棚温泉", "category": "麺", "description": "熱した瓦の上に茶そばを盛り付けて食べる、山口独自の麺料理。" },
+
+  { "id": "tokushima-f01", "prefecture": "tokushima", "name": "阿波尾鶏", "kana": "あわおどり", "area": "全域", "category": "肉料理", "description": "歯ごたえと旨みが特徴の地鶏。全国的にも高い評価を持つブランド地鶏。" },
+  { "id": "tokushima-f02", "prefecture": "tokushima", "name": "徳島ラーメン", "kana": "とくしまラーメン", "area": "徳島市", "category": "麺", "description": "甘辛い豚バラ肉と生卵をのせた、濃厚な豚骨醤油スープのラーメン。" },
+
+  { "id": "kagawa-f01", "prefecture": "kagawa", "name": "讃岐うどん", "kana": "さぬきうどん", "area": "全域", "category": "麺", "description": "強いコシと弾力が特徴の、香川を代表するうどん文化。" },
+  { "id": "kagawa-f02", "prefecture": "kagawa", "name": "骨付き鳥", "kana": "ほねつきどり", "area": "丸亀市", "category": "肉料理", "description": "スパイスを効かせて焼き上げた、香川発祥のご当地グルメ。" },
+
+  { "id": "ehime-f01", "prefecture": "ehime", "name": "みかん", "kana": "みかん", "area": "全域", "category": "郷土料理", "description": "温暖な気候を活かして育つ、愛媛を代表する特産品の柑橘類。" },
+  { "id": "ehime-f02", "prefecture": "ehime", "name": "じゃこ天", "kana": "じゃこてん", "area": "宇和島市", "category": "魚介", "description": "小魚をすり身にして揚げた、愛媛南部の郷土料理。" },
+
+  { "id": "kochi-f01", "prefecture": "kochi", "name": "カツオのたたき", "kana": "カツオのたたき", "area": "全域", "category": "魚介", "description": "藁焼きで表面を炙った、高知を代表するカツオ料理。" },
+  { "id": "kochi-f02", "prefecture": "kochi", "name": "皿鉢料理", "kana": "さわちりょうり", "area": "全域", "category": "郷土料理", "description": "刺身や寿司などを大皿に豪快に盛り付ける、高知の宴席料理。" },
+
+  { "id": "fukuoka-f01", "prefecture": "fukuoka", "name": "博多ラーメン", "kana": "はかたラーメン", "area": "福岡市", "category": "麺", "description": "細麺と濃厚な豚骨スープが特徴の、全国的にも人気の高いラーメン。" },
+  { "id": "fukuoka-f02", "prefecture": "fukuoka", "name": "もつ鍋", "kana": "もつなべ", "area": "福岡市", "category": "鍋", "description": "牛もつとニラ、キャベツなどを煮込む、福岡発祥の鍋料理。" },
+  { "id": "fukuoka-f03", "prefecture": "fukuoka", "name": "水炊き", "kana": "みずたき", "area": "福岡市", "category": "鍋", "description": "鶏の出汁でじっくり煮込む、博多を代表する上品な鍋料理。" },
+  { "id": "fukuoka-f04", "prefecture": "fukuoka", "name": "明太子", "kana": "めんたいこ", "area": "福岡市", "category": "魚介", "description": "スケトウダラの卵を辛味調味料で漬け込んだ、福岡を代表する特産品。" },
+
+  { "id": "saga-f01", "prefecture": "saga", "name": "呼子のイカ", "kana": "よぶこのイカ", "area": "唐津市", "category": "魚介", "description": "透き通るような新鮮さが自慢の、活き造りで供されるイカ料理。" },
+  { "id": "saga-f02", "prefecture": "saga", "name": "佐賀牛", "kana": "さがぎゅう", "area": "全域", "category": "肉料理", "description": "きめ細やかな肉質を誇る、佐賀県産の上質なブランド牛。" },
+
+  { "id": "nagasaki-f01", "prefecture": "nagasaki", "name": "ちゃんぽん", "kana": "ちゃんぽん", "area": "長崎市", "category": "麺", "description": "野菜と魚介、豚肉を炒めて白濁スープで煮込む、長崎発祥の麺料理。" },
+  { "id": "nagasaki-f02", "prefecture": "nagasaki", "name": "皿うどん", "kana": "さらうどん", "area": "長崎市", "category": "麺", "description": "パリパリの細麺にとろみのある具材あんをかけた長崎名物。" },
+  { "id": "nagasaki-f03", "prefecture": "nagasaki", "name": "カステラ", "kana": "カステラ", "area": "長崎市", "category": "菓子", "description": "南蛮貿易を通じて伝わった、長崎を代表する伝統菓子。" },
+
+  { "id": "kumamoto-f01", "prefecture": "kumamoto", "name": "馬刺し", "kana": "ばさし", "area": "全域", "category": "肉料理", "description": "新鮮な馬肉を刺身で味わう、熊本を代表する郷土料理。" },
+  { "id": "kumamoto-f02", "prefecture": "kumamoto", "name": "太平燕(タイピーエン)", "kana": "たいぴーえん", "area": "熊本市", "category": "麺", "description": "春雨を使った、熊本で独自に発展した中華風スープ麺。" },
+
+  { "id": "oita-f01", "prefecture": "oita", "name": "とり天", "kana": "とりてん", "area": "全域", "category": "肉料理", "description": "天ぷら衣で揚げた鶏肉料理。酢橘や辛子酢味噌で食べるのが定番。" },
+  { "id": "oita-f02", "prefecture": "oita", "name": "だんご汁", "kana": "だんごじる", "area": "全域", "category": "郷土料理", "description": "小麦粉の平たい麺状の団子を野菜と味噌で煮込む郷土料理。" },
+
+  { "id": "miyazaki-f01", "prefecture": "miyazaki", "name": "地鶏の炭火焼き", "kana": "じどりのすみびやき", "area": "全域", "category": "肉料理", "description": "炭火で香ばしく焼き上げる、宮崎を代表する鶏料理。" },
+  { "id": "miyazaki-f02", "prefecture": "miyazaki", "name": "冷や汁", "kana": "ひやじる", "area": "全域", "category": "郷土料理", "description": "焼き魚と味噌を溶いた出汁をご飯にかけて食べる、夏の郷土料理。" },
+
+  { "id": "kagoshima-f01", "prefecture": "kagoshima", "name": "黒豚料理", "kana": "くろぶたりょうり", "area": "全域", "category": "肉料理", "description": "しゃぶしゃぶやとんかつで親しまれる、鹿児島特産の黒豚。" },
+  { "id": "kagoshima-f02", "prefecture": "kagoshima", "name": "さつま揚げ", "kana": "さつまあげ", "area": "全域", "category": "魚介", "description": "魚のすり身を揚げた、鹿児島発祥とされる伝統的な練り物。" },
+  { "id": "kagoshima-f03", "prefecture": "kagoshima", "name": "芋焼酎", "kana": "いもじょうちゅう", "area": "全域", "category": "飲み物", "description": "さつまいもを原料とする鹿児島を代表する蒸留酒。" },
+
+  { "id": "okinawa-f01", "prefecture": "okinawa", "name": "ゴーヤーチャンプルー", "kana": "ゴーヤーチャンプルー", "area": "全域", "category": "郷土料理", "description": "ゴーヤーと豆腐、卵などを炒め合わせた沖縄の代表的な家庭料理。" },
+  { "id": "okinawa-f02", "prefecture": "okinawa", "name": "沖縄そば", "kana": "おきなわそば", "area": "全域", "category": "麺", "description": "小麦粉のみで作る独自の麺を使った、沖縄を代表する麺料理。" },
+  { "id": "okinawa-f03", "prefecture": "okinawa", "name": "泡盛", "kana": "あわもり", "area": "全域", "category": "飲み物", "description": "タイ米を原料に造られる、沖縄独自の伝統的な蒸留酒。" }
+]
